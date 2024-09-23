@@ -1,4 +1,4 @@
-  GNU nano 8.0                                                                                        README.md
+это домашнее задание по проекту Git Lab.                                                                                        README.md
 
 
 
